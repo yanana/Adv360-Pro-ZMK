@@ -60,11 +60,11 @@
         fn {
             display-name = "Fn";
             bindings = <
-&kp F1  &kp F2         &kp F3       &kp F4                &kp F5                 &kp F6           &tog 1                                               &mo 3   &kp F7          &kp F8           &kp F9                &kp F10                &kp F11    &kp F12
-&trans  &kp EQUAL      &trans       &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp EXCLAMATION  &none                                                &none   &kp CARET       &trans           &trans                &trans                 &trans     &trans
-&trans  &kp BACKSLASH  &kp AT_SIGN  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp AMPERSAND    &none   &trans  &trans        &trans         &trans  &none   &kp UP_ARROW    &kp GRAVE        &kp MINUS             &kp ASTERISK           &kp EQUAL  &trans
-&trans  &trans         &trans       &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE                         &kp HOME      &kp PAGE_UP                    &kp LEFT_ARROW  &kp RIGHT_ARROW  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans     &trans
-&trans  &trans         &trans       &kp LESS_THAN         &kp GREATER_THAN                        &trans  &trans  &kp END       &kp PAGE_DOWN  &trans  &trans                  &kp DOWN_ARROW   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans     &trans
+&kp F1  &kp F2         &kp F3       &kp F4                &kp F5                 &kp F6           &tog 1                                               &mo 3   &kp F7          &kp F8     &kp F9         &kp F10         &kp F11          &kp F12
+&trans  &kp EQUAL      &trans       &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp EXCLAMATION  &none                                                &none   &kp CARET       &trans     &trans         &trans          &trans           &trans
+&trans  &kp BACKSLASH  &kp AT_SIGN  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp AMPERSAND    &none   &trans  &trans        &trans         &trans  &none   &kp UP_ARROW    &kp GRAVE  &kp MINUS      &kp UP_ARROW    &kp EQUAL        &trans
+&trans  &trans         &trans       &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE                         &kp HOME      &kp PAGE_UP                    &kp LEFT_ARROW  &kp HOME   &kp PAGE_UP    &kp LEFT_ARROW  &kp RIGHT_ARROW  &trans
+&trans  &trans         &trans       &kp LESS_THAN         &kp GREATER_THAN                        &trans  &trans  &kp END       &kp PAGE_DOWN  &trans  &trans                  &kp END    &kp PAGE_DOWN  &kp DOWN_ARROW  &trans           &trans
             >;
         };
 
